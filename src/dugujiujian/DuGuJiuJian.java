@@ -5,5 +5,8 @@ public class DuGuJiuJian {
 	
 	public static void main(String[] args) {
 		System.out.println("DuGuJiuJian");
+		System.out.println("DuGuJiuJian");
+		System.out.println("DuGuJiuJian");
+		System.out.println("DuGuJiuJian");
 	}
 }
